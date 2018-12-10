@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exploration du Web</title>
+  </head>
+  <body>
+    <strong>Exploration du Web</strong>
+    <h1>Le Deep Web</h1>
+    <img src="https://securereading.com/wp-content/uploads/2016/09/1-1.png" alt="Le Deep Web" />
+    <a href="https://securereading.com/wp-content/uploads/2016/09/1-1.png">
+    <br>Voici le lien de la première image qui est sur le Web profond!
+    <bouton type=submit name=action><img src="https://securereading.com/wp-content/uploads/2016/09/1-1.png"></bouton>
+    </a>
+    <p>Le web profond est la partie du web inaccessible par les moteurs de recherche classiques, c’est-à-dire non indexée ou dont le contenu est d’accès limité.</p>
+    <h2>Le développement d'une page Web</h2>
+    <img src="https://www.imedias.pro/wp-content/themes/bootstrap-basic4-child/images/cours/programmation/langage-html-langage-css-langage-javascript.png" alt="Le développement d'une page Web" />
+    <a href="https://www.imedias.pro/wp-content/themes/bootstrap-basic4-child/images/cours/programmation/langage-html-langage-css-langage-javascript.png">
+    <br>Voici le lien de la deuxième image qui est sur le développement d'une page Web.
+    <bouton type=submit name=action><img src="https://www.imedias.pro/wp-content/themes/bootstrap-basic4-child/images/cours/programmation/langage-html-langage-css-langage-javascript.png"></bouton>
+    </a>
+    <p>Les langages HTML et CSS sont à la base de tout projet de développement web. En effet, les navigateurs vont utiliser ces deux langages pour afficher des pages web. En bref, pour créer un site e-commerce, un blog ou encore une application mobile, il est nécessaire de passer par du code en HTML ou CSS.</p>
+    <h3>La sécurité du Web</h3>
+    <img src="https://www.x-cart.com/wp-content/uploads/2017/02/http_to_https-1.jpg" alt="La sécurité du Web" />
+    <a href="https://www.x-cart.com/wp-content/uploads/2017/02/http_to_https-1.jpg">
+    <br>Voici le lien de la première image qui est sur la sécurité du Web.
+    <bouton type=submit name=action><img src="https://www.x-cart.com/wp-content/uploads/2017/02/http_to_https-1.jpg"></bouton>
+    </a>
+    <p>La conception et l’utilisation du Web exige la sécurité avec une vigilance car les la plupart des activités de ces jours se font sur l’internet et le Web.</p>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exploration du Web</title>
+  </head>
+  <body>
+    <strong>Exploration du Web</strong>
+    <h1>Le Deep Web</h1>
+<table align=center>
+ <TR>
+        <TD>
+             <button type=submit name="action" value=selection><img src="https://securereading.com/wp-content/uploads/2016/09/1-1.png></boutton>
+        </TD>
+        <TD>
+                <button type=submit name="action" value=selection><img src="C:\modifier.gif></boutton>
+        </TD> </TR>
+  </body>
+</html>
